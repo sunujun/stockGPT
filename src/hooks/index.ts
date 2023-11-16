@@ -1,0 +1,1 @@
+export { useGetGptResponse } from './useGetGptResponse';
